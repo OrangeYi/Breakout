@@ -1,4 +1,5 @@
 # Breakout Game
+
 1.The format of the command-line is 
 	javac breakout speed (1-20) framerate (25-40)
 	//1 is the fastest and 20 is slowest, but if you want, you can make it lager to let
